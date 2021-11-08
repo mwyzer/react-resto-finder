@@ -2,10 +2,10 @@
 
 ![Travel Advisor](https://ibb.co/23Bf2G6)
 
-Demosite using Netlify => Click Here[https://restaurant-nearby.netlify.app/].  
+Demosite using Netlify => Click [Here](https://restaurant-nearby.netlify.app/).  
 
 ## Introduction
-From Javascript Mastery Youtube Channel[https://www.youtube.com/c/JavaScriptMastery], using my own API.
+From [Javascript Mastery Youtube Channel](https://www.youtube.com/c/JavaScriptMastery), using my own API.
 
 
 
